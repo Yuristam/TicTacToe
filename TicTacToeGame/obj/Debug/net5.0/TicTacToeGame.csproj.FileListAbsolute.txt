@@ -1,0 +1,5 @@
+C:\Users\Ackerman Yeager\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\net5.0\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Ackerman Yeager\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\net5.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ackerman Yeager\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\net5.0\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\Ackerman Yeager\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\net5.0\TicTacToeGame.AssemblyInfo.cs
+C:\Users\Ackerman Yeager\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\net5.0\TicTacToeGame.csproj.CoreCompileInputs.cache
